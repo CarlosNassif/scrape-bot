@@ -34,6 +34,7 @@ time.sleep(5)
 # get page structure
 soup = BeautifulSoup(driver.page_source, 'lxml')
 
+# find all 'key' strings on page body
 key_strings = soup.find('body').find_all(string=re.compile('(?i)key'))
 
 if len(key_strings) > 0:
