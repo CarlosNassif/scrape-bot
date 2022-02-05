@@ -32,4 +32,4 @@ open_site('https://www.superdatascience.com/')
 login_site()
 time.sleep(30)
 
-driver.close()
+driver.quit()
