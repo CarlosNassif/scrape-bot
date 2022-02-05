@@ -8,6 +8,6 @@ This web scrape was built following the course [Modern Web Scraping in Python](h
 
   - [X] - Basic info and software needed (Anaconda, Scrapy and Spyder)
   - [X] - Practical 1 - Scrapy Challenge
-  - [ ] - Practical 2 - BeautifulSoup Challenge
+  - [X] - Practical 2 - BeautifulSoup Challenge
   - [ ] - Practical 3 - Selenium Challenge
   - [ ] - Course Challenge
