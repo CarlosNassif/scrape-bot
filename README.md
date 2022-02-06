@@ -10,4 +10,4 @@ This web scrape was built following the course [Modern Web Scraping in Python](h
   - [X] - Practical 1 - Scrapy Challenge
   - [X] - Practical 2 - BeautifulSoup Challenge
   - [X] - Practical 3 - Selenium Challenge
-  - [ ] - Course Challenge
+  - [X] - Course Challenge
